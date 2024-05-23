@@ -66,6 +66,28 @@ CodeBoard is a website solely designed for Teachers and Students, to make learni
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+## Installation Guide for CodeBoard
+
+To set up CodeBoard on your local machine, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/gitsofaryan/CodeBoard.git
+
+2. cd CodeBoard
+3. npm install
+4. Create a .env file in the root directory and add the following line:
+       PORT=8000
+5. Start the server:
+       npm start
+6. Run the frontend:
+        npm run frontend
+7. Access your site:
+Open your web browser and navigate to http://localhost:8000 to see your site running.
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
 [![Uses Git](https://forthebadge.com/images/badges/uses-git.svg)](https://github.com/vedant-jain03/code_bode)
 [![forthebadge made-with-javascript](http://ForTheBadge.com/images/badges/made-with-javascript.svg)](https://github.com/vedant-jain03/code_bode)
 
