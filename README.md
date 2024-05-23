@@ -74,15 +74,20 @@ To set up CodeBoard on your local machine, follow these steps:
    ```bash
    git clone https://github.com/gitsofaryan/CodeBoard.git
 
-2. cd CodeBoard
-3. npm install
-4. Create a .env file in the root directory and add the following line:
+2. ```bash
+   cd CodeBoard
+3. ```bash
+   npm install
+4. **Create a .env file in the root directory and add the following line:**
+      ```bash
        PORT=8000
-5. Start the server:
+5. **Start the server:**
+     ```bash
        npm start
-6. Run the frontend:
-        npm run frontend
-7. Access your site:
+6. **Run the frontend:**
+   ```bash
+    npm run frontend
+8. **Access your site:**
 Open your web browser and navigate to http://localhost:8000 to see your site running.
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
